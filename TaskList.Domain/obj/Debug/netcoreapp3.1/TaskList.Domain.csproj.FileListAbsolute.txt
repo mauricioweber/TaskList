@@ -1,0 +1,9 @@
+C:\Users\Mauricio\source\repos\TaskList\TaskList.Domain\bin\Debug\netcoreapp3.1\TaskList.Domain.deps.json
+C:\Users\Mauricio\source\repos\TaskList\TaskList.Domain\bin\Debug\netcoreapp3.1\TaskList.Domain.dll
+C:\Users\Mauricio\source\repos\TaskList\TaskList.Domain\bin\Debug\netcoreapp3.1\TaskList.Domain.pdb
+C:\Users\Mauricio\source\repos\TaskList\TaskList.Domain\obj\Debug\netcoreapp3.1\TaskList.Domain.csprojAssemblyReference.cache
+C:\Users\Mauricio\source\repos\TaskList\TaskList.Domain\obj\Debug\netcoreapp3.1\TaskList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\TaskList\TaskList.Domain\obj\Debug\netcoreapp3.1\TaskList.Domain.AssemblyInfoInputs.cache
+C:\Users\Mauricio\source\repos\TaskList\TaskList.Domain\obj\Debug\netcoreapp3.1\TaskList.Domain.AssemblyInfo.cs
+C:\Users\Mauricio\source\repos\TaskList\TaskList.Domain\obj\Debug\netcoreapp3.1\TaskList.Domain.dll
+C:\Users\Mauricio\source\repos\TaskList\TaskList.Domain\obj\Debug\netcoreapp3.1\TaskList.Domain.pdb
